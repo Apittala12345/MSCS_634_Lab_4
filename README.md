@@ -1,7 +1,9 @@
 
 # MSCS-634 Lab 4: Regression Analysis with Regularization Techniques
 
-**Course:** MSCS-634 – Advanced Big Data and Data Mining  
+
+**Student Name:** Anusha Pittala  
+**Course:** MSCS-634-M50 – Advanced Big Data and Data Mining  
 **University:** University of the Cumberlands  
 **Semester:** Fall 2026
 
